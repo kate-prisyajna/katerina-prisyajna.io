@@ -1,0 +1,74 @@
+/*Nav Bar*/
+
+.menu {
+  
+    display: block;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bgc_brown_dark);
+    height: 50px;
+    font-family: 'Trueno', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 13px;
+    color: var(--txt-color-plain);
+    line-height: 26px;
+/*    padding-right: 40px;*/
+}
+
+.navigation {
+  
+    display: block;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bgc_brown2_light);
+/*     background-image: url("../img/nav_bar_all.png");*/
+    height: 72px;
+    font-family: 'Trueno', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 16px;
+    color: var(--txt-color-plain);
+    line-height: 26px;
+    text-align: right;
+    
+  }
+
+
+.menu:hover{
+    
+    
+}
+
+.right{
+    
+    text-align: right;
+    
+}
+
+
+.menu span{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+
+.menu:first-child{
+    padding-left: 0px;
+}
+
+.logo__img{
+ float: left;
+}
+
+.navigation:hover{
+    
+}
+
+.navigation span{
+   padding-left: 37px; 
+}
+   
+
+     
